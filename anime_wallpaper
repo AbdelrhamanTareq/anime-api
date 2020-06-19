@@ -1,0 +1,22 @@
+  
+[
+{"type":"header","version":"5.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"anime_wallpaper"},
+{"type":"table","name":"data","database":"anime_wallpaper","data":
+[
+{"id":"1","title":"Sasuke and Naruto","imageUrl":"https:\/\/images.alphacoders.com\/605\/thumb-1920-605592.png","animeName":"Naruto","isFavorite":"0"},
+{"id":"2","title":"NARUTO & KURAMA","imageUrl":"https:\/\/images7.alphacoders.com\/303\/thumb-1920-303042.png","animeName":"Naruto","isFavorite":"0"},
+{"id":"3","title":"New Generation: Will of Fire","imageUrl":"https:\/\/images3.alphacoders.com\/135\/thumb-1920-135625.jpg","animeName":"Naruto","isFavorite":"0"},
+{"id":"4","title":"The Night Murderer","imageUrl":"https:\/\/images3.alphacoders.com\/144\/thumb-1920-144565.jpg","animeName":"Naruto","isFavorite":"0"},
+{"id":"5","title":"Itachi Uchiha & Sasuke Uchiha","imageUrl":"https:\/\/images3.alphacoders.com\/726\/thumb-1920-72695.png","animeName":"Naruto","isFavorite":"0"},
+{"id":"6","title":"Naruto New Powers","imageUrl":"https:\/\/images5.alphacoders.com\/532\/thumb-1920-532559.jpg","animeName":"Naruto","isFavorite":"0"},
+{"id":"7","title":"Kakashi The scare crow.","imageUrl":"https:\/\/images2.alphacoders.com\/775\/thumb-1920-77572.png","animeName":"Naruto","isFavorite":"0"},
+{"id":"8","title":"euphoria","imageUrl":"https:\/\/images2.alphacoders.com\/606\/thumb-1920-606275.jpg","animeName":"one piece","isFavorite":"0"},
+{"id":"9","title":"luffy & ace & sabo","imageUrl":"https:\/\/images2.alphacoders.com\/516\/thumb-1920-516664.jpg","animeName":"one piece","isFavorite":"0"},
+{"id":"10","title":"one piece","imageUrl":"https:\/\/images6.alphacoders.com\/606\/thumb-1920-606263.jpg","animeName":"one piece","isFavorite":"0"},
+{"id":"11","title":"Ace","imageUrl":"https:\/\/images.alphacoders.com\/846\/thumb-1920-84631.jpg","animeName":"one piece","isFavorite":"0"},
+{"id":"12","title":"Roronoa Zoro","imageUrl":"https:\/\/images4.alphacoders.com\/606\/thumb-1920-606667.jpg","animeName":"one piece","isFavorite":"0"},
+{"id":"13","title":"Don't cry you're a Man","imageUrl":"https:\/\/images6.alphacoders.com\/618\/thumb-1920-618290.png","animeName":"one piece","isFavorite":"0"}
+]
+}
+]
